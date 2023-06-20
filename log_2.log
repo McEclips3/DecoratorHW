@@ -1,0 +1,5 @@
+
+{'Name': 'hello_world', 'args': ((), {}), 'time': '2023-06-20 21:45:33.004378', 'result': 'Hello World'}
+{'Name': 'summator', 'args': ((2, 2), {}), 'time': '2023-06-20 21:45:33.004378', 'result': 4}
+{'Name': 'div', 'args': ((6, 2), {}), 'time': '2023-06-20 21:45:33.005352', 'result': 3.0}
+{'Name': 'summator', 'args': ((4.3,), {'b': 2.2}), 'time': '2023-06-20 21:45:33.005352', 'result': 6.5}
